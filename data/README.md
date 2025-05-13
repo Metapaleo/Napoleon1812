@@ -1,4 +1,4 @@
-# Files in this folder:
+# Files in this folder and links to relevant data files:
 
 ## For Borrelia recurrentis:
 
