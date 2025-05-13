@@ -1,0 +1,36 @@
+{
+  "tree": "(((((B_recurrentis_A1:0.0000001000{0},reference:0.0000001000{1})1:0.0000040000{2},B_recurrentis_A17:0.0000060000{3})1:0.0000040000{4},(B_recurrentis_PBek:0.0000010000{5},(((B_recurrentis_PAbJ:0.0000001000{6},B_recurrentis_PAbN:0.0000001000{7})0.1:0.0000001000{8},B_recurrentis_PMaC:0.0000001000{9})0.21:0.0000001000{10},B_recurrentis_PUfA:0.0000001000{11})0.92:0.0000020000{12})1:0.0000080000{13})1:0.0002409000{14},(OSL9:0.0000851000{15},C10976:0.0000187000{16})0.93:0.0000113000{17})1:0.0004134000{18},(C13361:0.0003144000{19},((B_hispanica_CRI:0.0286337000{20},(B_crocidurae_Achema:0.0031531000{21},B_crocidurae_DOU:0.0029723000{22})1:0.0023191000{23})1:0.0019043000{24},B_duttonii_CR2A:0.0030916000{25})1:0.0035960000{26})1:0.0002154000{27},C10416:0.0001056000{28});",
+  "placements": 
+  [
+    {"p": [
+      [26, -568094.0465732651, 0.3867859158, 0.0017515708, 0.0009089287],
+      [15, -568094.1717868532, 0.3412644749, 0.0000425500, 0.0016139126],
+      [14, -568094.9757327585, 0.1527361400, 0.0000500000, 0.0016185493],
+      [16, -568097.4084419082, 0.0134100270, 0.0000093500, 0.0024067353],
+      [17, -568097.4087610443, 0.0134057480, 0.0000056500, 0.0024071616],
+      [18, -568097.4438112346, 0.0129440132, 0.0000500000, 0.0023414869]
+      ],
+    "n": ["YYY092B"]
+    },
+    {"p": [
+      [15, -568104.5745588058, 0.9999999914, 0.0000425500, 0.0001000000]
+      ],
+    "n": ["Las_Gobas12"]
+    },
+    {"p": [
+      [28, -568172.9669356532, 0.5894282124, 0.0000528000, 0.0001000000],
+      [27, -568173.3956039111, 0.3839393808, 0.0001006867, 0.0001000000],
+      [18, -568176.0639598104, 0.0266324069, 0.0000705667, 0.0001000000]
+      ],
+    "n": ["YYY093A"]
+    },
+    {"p": [
+      [27, -568300.1986575522, 0.9998507940, 0.0001555136, 0.0001000000]
+      ],
+    "n": ["C11907"]
+    }
+  ],
+  "metadata": {"invocation": "epa-ng --ref-msa /pasteur/helix/projects/Hotpaleo/nico/remi/000_amphy/01_B.recurrentis/01_epa/01_all_mapping_reads/01_genes/msa.fasta --tree /pasteur/helix/projects/Hotpaleo/nico/remi/000_amphy/01_B.recurrentis/01_epa/01_all_mapping_reads/02_tree/ml_tree.raxml_with_support.nw --query /pasteur/helix/projects/Hotpaleo/nico/remi/000_amphy/01_B.recurrentis/01_epa/01_all_mapping_reads/01_genes/msa_to_place.fasta --model /pasteur/helix/projects/Hotpaleo/nico/remi/000_amphy/01_B.recurrentis/01_epa/01_all_mapping_reads/02_tree/ml_tree.raxml.bestModel -T 20 "},
+  "version": 3,
+  "fields": ["edge_num", "likelihood", "like_weight_ratio", "distal_length", "pendant_length"]
+}
