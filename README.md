@@ -1,5 +1,5 @@
 # Paratyphoid Fever and Relapsing Fever in 1812 Napoleon's Devastated Army
-Scripts used in R. Barbieri, et al.2025 study
+Scripts, code and results from R. Barbieri, et al.2025 study
 
 # Salmonella enterica & Borrelia recurrentis Analysis Pipeline
 
